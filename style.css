@@ -1,3 +1,36 @@
+
+#jordans-1{
+    height:400px;
+    width:600px;
+}
+#jordans-2{
+    height:400px;
+    width:600px;
+}
+.sneaker_title{
+    background: linear-gradient(lightblue,rgb(244, 29, 76));
+    min-height:60px;
+    text-align: center;
+    padding-top:10px;
+    border-radius: 20px;
+    color:#6d00fb;
+    font-size: 50px;
+    text-decoration: underline;
+    text-shadow:1px 1px yellow;
+}
+p{
+    background-color: rgb(83, 202, 242);
+    color:white;
+    font-size: 30px;
+    width: 70%;
+    border-radius: 20px;
+    border:2px solid #f17500;
+    padding:10px;
+}
+body{
+    background-image: url("https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg");
+}
+
 /* Write Your CSS Below 
 Colors: 
 - rgb(243, 183, 106)
